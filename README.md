@@ -15,3 +15,11 @@ Os requisitos e funcionalidades deste projeto são as seguintes:
 Por exemplo:
 "gato" => "gaitober"
 "gaitober" => "gato"
+
+Capturas de tela do projeto em funcionamento: 
+![image](https://github.com/Leonardo-Santana02/Decodificador-de-Texto/assets/163071257/5aaeeedb-63c1-49b2-b46a-c8b53bd8caa7)
+![image](https://github.com/Leonardo-Santana02/Decodificador-de-Texto/assets/163071257/8218378e-6b10-48ec-a7d7-a4c6ef9cea26)
+![image](https://github.com/Leonardo-Santana02/Decodificador-de-Texto/assets/163071257/6e56ade2-896b-4ad5-9dbd-ad3a096b61b5)
+![image](https://github.com/Leonardo-Santana02/Decodificador-de-Texto/assets/163071257/8ac39860-3c0a-4e38-911d-a33a10cb6866)
+
+
