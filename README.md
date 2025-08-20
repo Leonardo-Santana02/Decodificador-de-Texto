@@ -1,3 +1,5 @@
+## **Codificador de Texto**
+
 Este é um projeto desenvolvido com o auxílio dos cursos da Alura, Iniciante em Programação T7 - ONE.
 Este é um Decodificador de Texto onde os textos inseridos são criptografados. A cifra da criptogração é a seguinte:
 - A letra "e" é convertida para "enter"
